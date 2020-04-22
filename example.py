@@ -108,3 +108,5 @@ while integer_number > 0:
         n += 1
     integer_number = integer_number // 10
 print(n)
+
+print(n)
